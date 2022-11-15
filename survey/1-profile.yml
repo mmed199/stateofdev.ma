@@ -108,6 +108,14 @@ questions:
       - Yes
       - Still hesitating
       - No
+  
+  - label: If you are working abroad, Where did you study at university?
+  choices:
+      - Self-taught
+      - Partly in Morocco, and partly abroad
+      - Moroccan university
+      - Foreign university
+
 
   - label: What do you usually drink while coding?
     required: true
